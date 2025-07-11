@@ -1,7 +1,6 @@
 #Tuples.py
 t = (1,3,5,7,9,"apple","mango", "papaya")
-type (t)
-<class 'tuple'>
+type (t) #<class 'tuple'>
 
 #Accessing Tuple Elements
 
