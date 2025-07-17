@@ -61,3 +61,8 @@ print("Categories: {}".format(categories_text))
 print("Stock Details: Available - {}, Sold - {}".format(available, sold))
 print("Features: {}".format(features_text))
 print("Supplier: {Name} | Contact: {Contact} | Location: {Location}".format(**supplier_details))
+
+
+
+
+
